@@ -1,5 +1,5 @@
 {
-  "Status": false,
-  "MSG": "Server OFF",
+  "Status": true,
+  "MSG": "Server ON",
   "Version": "4.3"
 }
