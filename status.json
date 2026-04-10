@@ -1,5 +1,5 @@
 {
-  "Status": true,
-  "MSG": "Server OFF BSDK",
-  "Version": "4.3"
+  "SERVER": "ON",
+  "MSG": "Server is under maintenance. Join Telegram.",
+  "VERSION": "4.3"
 }
