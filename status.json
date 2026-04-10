@@ -1,5 +1,5 @@
 {
-  "Status": true,
-  "MSG": "Server ON",
+  "Status": false,
+  "MSG": "Server OFF BSDK",
   "Version": "4.3"
 }
